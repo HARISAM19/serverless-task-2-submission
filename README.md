@@ -29,10 +29,3 @@ Request Body:
 }
 
 
-###
-
-GET /get-users
-
-### Delete User
-
-DELETE /delete-user/{name}
